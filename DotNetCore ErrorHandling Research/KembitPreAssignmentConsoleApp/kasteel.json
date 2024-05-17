@@ -1,0 +1,54 @@
+[
+   {
+      "Id":1,
+      "Name":"Kasteel Baarlo"
+   },
+   {
+      "Id":2,
+      "Name":"Kasteel Bleijenbeek"
+   },
+   {
+      "Id":3,
+      "Name":"Kasteel Neercanne"
+   },
+   {
+      "Id":4,
+      "Name":"Kasteel St. Gerlach"
+   },
+   {
+      "Id":5,
+      "Name":"Kasteel Genhoes"
+   },
+   {
+      "Id":6,
+      "Name":"Kasteel Jansgeleen"
+   },
+   {
+      "Id":7,
+      "Name":"Kasteel Landsfort"
+   },
+   {
+      "Id":8,
+      "Name":"Kasteel Ouborg"
+   },
+   {
+      "Id":9,
+      "Name":"Kasteel Schaloen"
+   },
+   {
+      "Id":14,
+      "Name":"Kasteel Breda"
+   },
+   {
+      "Id":11,
+      "Name":"Kasteel Ter Worm"
+   },
+   {
+      "Id":12,
+      "Name":"Kasteel Well"
+   },
+   {
+      "Id":13,
+      "Name":"Kasteel Wittem"
+   }
+]

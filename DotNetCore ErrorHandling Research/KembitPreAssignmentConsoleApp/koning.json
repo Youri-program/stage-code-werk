@@ -1,0 +1,107 @@
+[
+   {
+      "Id":1,
+      "CastleId":1,
+      "Name":"Baronet Barda",
+      "Location":"Limburg",
+	  "Year": 1900
+   },
+   {
+      "Id":2,
+      "CastleId":2,
+      "Name":"Viscount Tobey",
+      "Location":"Limburg",
+	  "Year": 1322
+   },
+   {
+      "Id":3,
+      "CastleId":2,
+      "Name":"Reeve Wymarc",
+      "Location":"Limburg",
+	  "Year": 453
+   },
+   {
+      "Id":4,
+      "CastleId":3,
+      "Name":"Emperor Barnabe",
+      "Location":"Limburg",
+	  "Year": 321
+   },
+   {
+      "Id":5,
+      "CastleId":4,
+      "Name":"Chancellor Faremanne",
+      "Location":"Limburg",
+	  "Year": 900
+   },
+   {
+      "Id":6,
+      "CastleId":5,
+      "Name":"Squire Oton",
+      "Location":"Limburg",
+	  "Year": 1564
+   },
+   {
+      "Id":7,
+      "CastleId":6,
+      "Name":"Prince Consort Ralf",
+      "Location":"Limburg",
+	  "Year": 1432
+   },
+   {
+      "Id":8,
+      "CastleId":7,
+      "Name":"Count Gifartus",
+      "Location":"Limburg",
+	  "Year": 1500
+   },
+   {
+      "Id":9,
+      "CastleId":8,
+      "Name":"Squire Hewelet",
+      "Location":"Limburg",
+	  "Year": 1223
+   },
+   {
+      "Id":10,
+      "CastleId":9,
+      "Name":"Grand Duke Launce",
+      "Location":"Limburg",
+	  "Year": 1674
+   },
+   {
+      "Id":11,
+      "CastleId":14,
+      "Name":"Duke Iscaac",
+      "Location":"Noord Brabant",
+	  "Year": 1324
+   },
+   {
+      "Id":12,
+      "CastleId":11,
+      "Name":"Peasant Ernoul",
+      "Location":"Limburg",
+	  "Year": 1634
+   },
+   {
+      "Id":13,
+      "CastleId":12,
+      "Name":"Vicar Gervesot",
+      "Location":"Limburg",
+	  "Year": 1534
+   },
+   {
+      "Id":14,
+      "CastleId":13,
+      "Name":"Margrave Rainald",
+      "Location":"Limburg",
+	  "Year": 1938
+   },
+   {
+      "Id":15,
+      "CastleId":13,
+      "Name":"Serf Jem",
+      "Location":"Limburg",
+	  "Year": 1953
+   }
+]
