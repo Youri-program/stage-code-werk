@@ -1,0 +1,68 @@
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Test14.exe
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Test14.deps.json
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Test14.runtimeconfig.json
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Test14.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Test14.pdb
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\Test14.csproj.AssemblyReference.cache
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\Test14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\Test14.AssemblyInfoInputs.cache
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\Test14.AssemblyInfo.cs
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\Test14.csproj.CoreCompileInputs.cache
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\Test14.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\refint\Test14.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\Test14.pdb
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\Test14.genruntimeconfig.cache
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\ref\Test14.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.pdb
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\obj\Debug\net6.0\Test14.csproj.CopyComplete
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\Test14\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Test14.exe
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Test14.deps.json
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Test14.runtimeconfig.json
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Test14.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Test14.pdb
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.pdb
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\Test14.csproj.AssemblyReference.cache
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\Test14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\Test14.AssemblyInfoInputs.cache
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\Test14.AssemblyInfo.cs
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\Test14.csproj.CoreCompileInputs.cache
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\Test14.csproj.CopyComplete
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\Test14.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\refint\Test14.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\Test14.pdb
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\Test14.genruntimeconfig.cache
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\obj\Debug\net6.0\ref\Test14.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\Test14\bin\Debug\net6.0\appsettings.json

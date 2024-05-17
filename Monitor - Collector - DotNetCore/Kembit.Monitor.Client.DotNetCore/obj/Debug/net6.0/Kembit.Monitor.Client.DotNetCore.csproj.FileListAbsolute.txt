@@ -1,0 +1,24 @@
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.deps.json
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.pdb
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.csproj.AssemblyReference.cache
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.AssemblyInfoInputs.cache
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.AssemblyInfo.cs
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\obj\Debug\net6.0\refint\Kembit.Monitor.Client.DotNetCore.dll
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.pdb
+C:\Users\yvdmeulen\CsharpProjects\TestKembitMonitorClient\TestClassLibrary\obj\Debug\net6.0\ref\Kembit.Monitor.Client.DotNetCore.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.deps.json
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\bin\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.pdb
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.csproj.AssemblyReference.cache
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.AssemblyInfoInputs.cache
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.AssemblyInfo.cs
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\obj\Debug\net6.0\refint\Kembit.Monitor.Client.DotNetCore.dll
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\obj\Debug\net6.0\Kembit.Monitor.Client.DotNetCore.pdb
+C:\Users\yvdmeulen\GitKraken\Monitor - Collector - DotNetCore\TestClassLibrary\obj\Debug\net6.0\ref\Kembit.Monitor.Client.DotNetCore.dll
